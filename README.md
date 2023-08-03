@@ -24,4 +24,5 @@ The Supermarket Application is designed to provide users with a virtual supermar
 - Display of items on each floor with their associated images.
 - Responsive design for various devices.
 
- ## Features
+ ## Demo
+ ![Screenshot (422)](https://github.com/AyanNaska/JSON_SupermarketApp-PyGUI/assets/113054786/dc13e27b-f0d5-4260-852b-417592a06c85)
