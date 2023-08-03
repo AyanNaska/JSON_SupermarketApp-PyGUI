@@ -8,10 +8,6 @@ This is a supermarket application that parses JSON files to display items on dif
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
-- [Usage](#usage)
-- [JSON File Format](#json-file-format)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
