@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource>
+        <file>1st.jpg</file>
+        <file>2nd.jpg</file>
+        <file>3rd.jpg</file>
+        <file>4th.jpg</file>
+        <file>ADI.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,146 @@
+{
+  "supermarket": {
+    "floors": [
+      {
+        "floor_name": "Food",
+        "items": [
+          {
+            "item_name": "Apple",
+            "price": 2.5,
+            "quantity": 100
+          },
+          {
+            "item_name": "Banana",
+            "price": 3.0,
+            "quantity": 50
+          },
+          {
+            "item_name": "Orange",
+            "price": 1.75,
+            "quantity": 80
+          },
+          {
+            "item_name": "Canned Goods",
+            "price": 3.75,
+            "quantity": 20
+          },
+          {
+            "item_name": "Chocolate Cake",
+            "price": 4.75,
+            "quantity": 24
+          },
+          {
+            "item_name": "Vanila Cake",
+            "price": 4.25,
+            "quantity": 20
+          },
+          {
+            "item_name": "Strawberry Cake",
+            "price": 4.21,
+            "quantity": 14
+          },
+          {
+            "item_name": "Burger",
+            "price": 5,
+            "quantity": 29
+          },
+          {
+            "item_name": "Pizza",
+            "price": 8,
+            "quantity": 24
+          },
+          {
+            "item_name": "Non-Veg Thali",
+            "price": 2.21,
+            "quantity": 17
+          },
+          {
+            "item_name": "Veg Thali",
+            "price": 2.0,
+            "quantity": 70
+          }
+        ]
+      },
+      {
+        "floor_name": "Cloths",
+        "items": [
+          {
+            "item_name": "T-Shirts",
+            "price": 15.0,
+            "quantity": 60
+          },
+          {
+            "item_name": "Jeans",
+            "price": 30.0,
+            "quantity": 40
+          },
+          {
+            "item_name": "Dresses",
+            "price": 25.0,
+            "quantity": 35
+          },
+          {
+            "item_name": "Sweaters",
+            "price": 20.0,
+            "quantity": 25
+          }
+        ]
+      },
+      {
+        "floor_name": "Accessories",
+        "items": [
+          {
+            "item_name": "Handbags",
+            "price": 40.0,
+            "quantity": 30
+          },
+          {
+            "item_name": "Sunglasses",
+            "price": 25.0,
+            "quantity": 50
+          },
+          {
+            "item_name": "Watches",
+            "price": 60.0,
+            "quantity": 20
+          },
+          {
+            "item_name": "Belts",
+            "price": 15.0,
+            "quantity": 40
+          }
+        ]
+      },
+      {
+        "floor_name": "Entertainment",
+        "items": [
+          {
+            "item_name": "Video Games",
+            "price": 50.0,
+            "quantity": 15
+          },
+          {
+            "item_name": "Board Games",
+            "price": 30.0,
+            "quantity": 25
+          },
+          {
+            "item_name": "Books",
+            "price": 10.0,
+            "quantity": 50
+          },
+          {
+            "item_name": "Comics",
+            "price": 8.0,
+            "quantity": 30
+          },
+          {
+            "item_name": "Movies",
+            "price": 20.0,
+            "quantity": 30
+          }
+        ]
+      }
+    ]
+  }
+}
